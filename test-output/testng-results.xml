@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-07T21:42:38 IST" name="Default suite" finished-at="2024-08-07T21:44:08 IST" duration-ms="89946">
+    <groups>
+    </groups>
+    <test started-at="2024-08-07T21:42:38 IST" name="Default test" finished-at="2024-08-07T21:44:08 IST" duration-ms="89946">
+      <class name="testpkg.Deygatest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpkg.Deygatest@69e153c5]" started-at="2024-08-07T21:42:38 IST" name="setUp" finished-at="2024-08-07T21:42:45 IST" duration-ms="6562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginWithValidCred()[pri:1, instance:testpkg.Deygatest@69e153c5]" started-at="2024-08-07T21:42:45 IST" name="verifyLoginWithValidCred" finished-at="2024-08-07T21:43:15 IST" duration-ms="30511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCred -->
+        <test-method signature="purchaseprod()[pri:2, instance:testpkg.Deygatest@69e153c5]" started-at="2024-08-07T21:43:15 IST" name="purchaseprod" finished-at="2024-08-07T21:43:57 IST" duration-ms="41861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseprod -->
+        <test-method signature="Searchproductlist()[pri:3, instance:testpkg.Deygatest@69e153c5]" started-at="2024-08-07T21:43:57 IST" name="Searchproductlist" finished-at="2024-08-07T21:44:08 IST" duration-ms="10900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searchproductlist -->
+      </class> <!-- testpkg.Deygatest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
